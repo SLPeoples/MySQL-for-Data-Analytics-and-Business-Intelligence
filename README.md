@@ -1,15 +1,16 @@
 # SQL--MySQL-for-Data-Analytics-and-Business-Intelligence
 Online SQL course for Business Intelligence
+https://www.udemy.com/sql-mysql-for-data-analytics-and-business-intelligence
 
-# How important is database management in the age of big data and analytics?
+How important is database management in the age of big data and analytics?
 
 It is pretty important.
 
-# How many employers would be happy to hire employees who can use data for the purposes of business intelligence?
+How many employers would be happy to hire employees who can use data for the purposes of business intelligence?
 
 All of them.
 
-# How many people have these skills?
+How many people have these skills?
 
 Not enough.
 
@@ -23,9 +24,9 @@ Worried that you have no previous experience?
 
 Not an issue. We will start from the very basics and will gradually teach you everything you need to know. Step by step. With no steps skipped.
 
-Why take precisely this course? Isn’t it like the rest of the SQL courses out there?
+# Why take precisely this course? Isn’t it like the rest of the SQL courses out there?
 
-# We would like to think it isn’t. Our team worked hard to create a course that is:
+We would like to think it isn’t. Our team worked hard to create a course that is:
 
 * Easy to understand
 * Time efficient and concise
