@@ -1,5 +1,7 @@
-# SQL--MySQL-for-Data-Analytics-and-Business-Intelligence
-Online SQL course for Business Intelligence
+# SQL - MySQL for Data Analytics and Business Intelligence
+
+## SQL that will get you hired – SQL for Business Analysis, Marketing, and Data Management
+
 https://www.udemy.com/sql-mysql-for-data-analytics-and-business-intelligence
 
 How important is database management in the age of big data and analytics?
